@@ -1,96 +1,36 @@
-# 👋 Hey, I'm YOUR_USERNAME
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8&height=280&section=header&text=Hey%20there%2C%20I'm%20[Dein%20Name]&fontSize=60&fontAlignY=45&animation=fadeIn" alt="Header" />
+  
+  <h1>🚀 Full-Stack Web Developer & Unreal Blueprint Wizard | Future Bass & Melodic Dubstep Producer 🎹</h1>
+  
+  <p>
+    <em>Code. Create. Drop the bass.</em><br>
+    Ich baue immersive Websites, lerne gerade C# wie ein Verrückter und produziere elektronische Musik, die direkt ins Herz geht.
+  </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome&fontSize=55&fontColor=ffffff&color=0:0f172a,100:2563eb"/>
+  <a href="https://github.com/[DeinUsername]">
+    <img src="https://img.shields.io/github/followers/[DeinUsername]?style=for-the-badge&logo=github&color=181717&logoColor=white" alt="Followers" />
+  </a>
+  <a href="https://twitter.com/[DeinTwitter]">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/[DeinLinkedIn]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://soundcloud.com/[DeinSoundcloud]">
+    <img src="https://img.shields.io/badge/SoundCloud-ff5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud" />
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+Developer;JavaScript;Learning+C%23;Unreal+Engine+Blueprint;Future+Bass+Producer"/>
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,lua,cs,dotnet,git,github,vscode,visualstudio,unreal,nodejs,npm,figma"/>
-</p>
-
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=[DeinUsername]&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
-# 🚀 About Me
+---
 
-I'm a passionate developer focused on modern web development with React and JavaScript. I'm currently expanding my skills in C#/.NET while also creating gameplay systems using Unreal Engine Blueprints.
+## 👋 Über mich
 
-Outside of coding I'm a music producer making Future Bass, Melodic Dubstep and cinematic electronic music.
+Hallo! Ich bin **[Dein Name]**, ein leidenschaftlicher **Web-Entwickler** mit einem Faible für moderne, performante und wunderschöne Websites. Gleichzeitig tauche ich tief in die Welt der **Game Development** mit Unreal Engine ein und produziere als **Musikproduzent** energiegeladene **Future Bass**, **Melodic Dubstep**, **Chillwave** und verwandte Genres.
 
-## 💻 Tech
+Mein Weg ist geprägt von Kreativität und Technik – ob ich jetzt React-Komponenten baue, die pixelperfekt aussehen, Blueprints in Unreal Engine verknüpfe oder einen Drop so gestalte, dass er dem Hörer Gänsehaut bereitet.
 
-- React
-- JavaScript
-- HTML
-- CSS
-- Lua
-- C#
-- .NET
-- Unreal Engine Blueprints
-- Git
-- GitHub
-- VS Code
-- Visual Studio
-
-## 🎵 Music
-
-Genres:
-- Future Bass
-- Melodic Dubstep
-- Chillstep
-- EDM
-- Cinematic
-
-## 📊 GitHub
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
-</p>
-
-## 🧠 Philosophy
-
-```cs
-while(alive)
-{
-    Learn();
-    Build();
-    Improve();
-    Create();
-}
-```
-
-## ⚡ Fun Facts
-
-- 💻 Love building modern UIs
-- 🎮 Unreal Engine enthusiast
-- 🎵 Music Producer
-- 🚀 Always learning
-
-## 📫 Socials
-
-Replace these with your links.
-
-- GitHub
-- Discord
-- YouTube
-- Spotify
-- SoundCloud
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:2563eb,100:0f172a"/>
-
-
-
+**
